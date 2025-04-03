@@ -5,28 +5,28 @@
 **Category:** Web Reconnaissance / Load Monitoring / OSINT Automation  
 
 
-## 📌 Description
+## Description
 
 **NGINX Scanner** is a Python-based tool designed to **monitor a server's real-time NGINX status** and **automatically detect potentially sensitive endpoints**.
 
 This tool provides:
 
-- 📊 Live visualization of server load (active, writing, and waiting connections)
-- 🔎 Automatic scanning of common web application endpoints
-- 🚨 Alert popups for potential overload situations
-- 📁 Logging of discovered endpoints and errors
+- Live visualization of server load (active, writing, and waiting connections)
+- Automatic scanning of common web application endpoints
+- Alert popups for potential overload situations
+- Logging of discovered endpoints and errors
 This is especially useful for blue teams conducting web service audits, bug bounty hunters, red teams identifying attack surfaces, or site reliability engineers (SREs) keeping watch on NGINX load metrics.
 
 
 
 ## ✨ Features
 
-- ✅ **Live NGINX Status Parsing** — Tracks active, writing, and waiting connections
-- 🔎 **Automated Endpoint Discovery** — Scans common paths like `/login`, `/api/v1`, `/admin`, etc.
-- 🚨 **Overload Detection Alerts** — GUI popups when thresholds are exceeded
-- 📊 **Graphical Monitoring** — Interactive matplotlib visualization of connection stats
-- 📝 **Log Management** — Automatically stores error and endpoint logs to file
-- 🎨 **Colorized Output** — Clean, styled terminal experience with ASCII banner
+- **Live NGINX Status Parsing** — Tracks active, writing, and waiting connections
+- **Automated Endpoint Discovery** — Scans common paths like `/login`, `/api/v1`, `/admin`, etc.
+- **Overload Detection Alerts** — GUI popups when thresholds are exceeded
+- **Graphical Monitoring** — Interactive matplotlib visualization of connection stats
+- **Log Management** — Automatically stores error and endpoint logs to file
+- **Colorized Output** — Clean, styled terminal experience with ASCII banner
 
 
 ## 📦 Prerequisites
