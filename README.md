@@ -29,6 +29,13 @@ This is especially useful for blue teams conducting web service audits, bug boun
 - 🎨 **Colorized Output** — Clean, styled terminal experience with ASCII banner
 
 ---
+## 📦 Prerequisites
+
+Make sure you have Python 3 installed. Then install the required libraries:
+
+```bash
+pip install requests matplotlib colorama
+pip install python 
 
 ## 🖥️ Demo Screenshot
 ![image](https://github.com/user-attachments/assets/133bf572-3693-428b-a915-47719eac8738)
