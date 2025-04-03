@@ -5,16 +5,16 @@
 **Category:** Web Reconnaissance / Load Monitoring / OSINT Automation  
 
 ---
+## 📌 Description
 
-## 📌 Overview
+**NGINX Scanner** is a Python-based tool designed to **monitor a server's real-time NGINX status** and **automatically detect potentially sensitive endpoints**.
 
-`NGINX Scanner` is a Python-based tool designed to:
+This tool provides:
 
-- Monitor live server metrics from `/nginx_status`
-- Automatically detect sensitive endpoints and directories
-- Trigger alerts based on traffic anomalies
-- Visualize connection data over time using interactive plots
-
+- 📊 Live visualization of server load (active, writing, and waiting connections)
+- 🔎 Automatic scanning of common web application endpoints
+- 🚨 Alert popups for potential overload situations
+- 📁 Logging of discovered endpoints and errors
 This is especially useful for blue teams conducting web service audits, bug bounty hunters, red teams identifying attack surfaces, or site reliability engineers (SREs) keeping watch on NGINX load metrics.
 
 ---
