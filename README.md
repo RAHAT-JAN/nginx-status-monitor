@@ -44,6 +44,7 @@ pip install python
 ```bash
 git clone https://github.com/YOUR_USERNAME/nginx-scanner.git
 cd nginx-scanner
+python3 nginx-scanner.py
 ```
 ## 🖥️ Demo Screenshot
 ![image](https://github.com/user-attachments/assets/133bf572-3693-428b-a915-47719eac8738)
