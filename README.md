@@ -32,6 +32,10 @@ This is especially useful for blue teams conducting web service audits, bug boun
 
 ## 🖥️ Demo Screenshot
 ![image](https://github.com/user-attachments/assets/133bf572-3693-428b-a915-47719eac8738)
+![image](https://github.com/user-attachments/assets/3b192aa1-9364-464f-b295-a436f062a5c1)
+
+![matrix](https://github.com/user-attachments/assets/8d0759a2-25e5-469e-bbcb-4b8eddda7e92)
+
 
 
 > _Real-time colored output with matplotlib graph at the end_  
