@@ -4,7 +4,7 @@
 **Project:** Real-time NGINX Monitor & Endpoint Scanner  
 **Category:** Web Reconnaissance / Load Monitoring / OSINT Automation  
 
----
+
 ## 📌 Description
 
 **NGINX Scanner** is a Python-based tool designed to **monitor a server's real-time NGINX status** and **automatically detect potentially sensitive endpoints**.
@@ -17,7 +17,7 @@ This tool provides:
 - 📁 Logging of discovered endpoints and errors
 This is especially useful for blue teams conducting web service audits, bug bounty hunters, red teams identifying attack surfaces, or site reliability engineers (SREs) keeping watch on NGINX load metrics.
 
----
+
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ This is especially useful for blue teams conducting web service audits, bug boun
 - 📝 **Log Management** — Automatically stores error and endpoint logs to file
 - 🎨 **Colorized Output** — Clean, styled terminal experience with ASCII banner
 
----
+
 ## 📦 Prerequisites
 
 Make sure you have Python 3 installed. Then install the required libraries:
