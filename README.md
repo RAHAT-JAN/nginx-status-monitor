@@ -19,7 +19,7 @@ This is especially useful for blue teams conducting web service audits, bug boun
 
 
 
-## ✨ Features
+## Features
 
 - **Live NGINX Status Parsing** — Tracks active, writing, and waiting connections
 - **Automated Endpoint Discovery** — Scans common paths like `/login`, `/api/v1`, `/admin`, etc.
