@@ -37,7 +37,14 @@ Make sure you have Python 3 installed. Then install the required libraries:
 pip install requests matplotlib colorama
 pip install python 
 ```
-🚀 How to Run It
+## 📦 Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/nginx-scanner.git
+cd nginx-scanner
+```
 ## 🖥️ Demo Screenshot
 ![image](https://github.com/user-attachments/assets/133bf572-3693-428b-a915-47719eac8738)
 ![image](https://github.com/user-attachments/assets/3b192aa1-9364-464f-b295-a436f062a5c1)
